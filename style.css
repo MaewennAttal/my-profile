@@ -1,0 +1,111 @@
+body {
+	background-color: rgb(51 11 153 / 21%);
+	color: rgb(59 31 109); 
+	font-family: lucida Fax;
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-align: center;
+
+border: 3px solid black;
+
+	}
+
+h2 {
+	color: rgb(39, 39, 39);
+	font-family: futura;
+	font-weight: 50px;
+	letter-spacing: 1px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+h1{
+	color: rgb(39, 39, 39);
+	font-family: futura;
+	font-weight: 10px ;
+	letter-spacing: 2px;
+	font-size: 40px;
+
+}
+
+
+
+div{
+	padding: 20px;
+    margin: 10px;
+    border: 10px;
+    box-shadow: 2px 10px 30px rgba(0, 0, 0, .1);
+    border-radius: 9px
+    background-color: rgb(255, 222, 238);
+
+
+}
+
+li{
+	list-style: circle;
+	list-style-position: outside;
+}
+
+
+
+.card-black {
+	border: 1px solid black;
+	padding: 5px;
+	background color: purple;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px 
+
+}
+
+
+
+.img-circle{
+    width: 300px;
+    border-radius: 25px;
+}
+
+.btn{
+	background color: rgb(93 10 241);
+	padding:10px 15px;
+	border-radius: 4px;
+	color: black;
+}
+
+.btn-purple{
+	color: rgb(93 10 241);
+}
+
+.a{
+	font-family: aria;
+	color: white;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 20px;
+	transition: color 0,3s ease;
+}
+
+.a:hover {
+	background-color: black
+	color: white;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i{
+	font-size: 70px;
+	color: rgb(59 31 109);
+}
+
+.list-inline i:hover{
+	color: black;
+}
+
+
